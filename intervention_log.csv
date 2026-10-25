@@ -1,0 +1,15 @@
+zone,risk_score,why,actions,govt_vs_crowd_conflict
+Z100,77,Emergency call drops (37.38) + Crowd outage reports (15.0),"Boost local warning (SMS, loudspeaker) | Field-verify power status",True
+Z17,87,Transit disruption (0.59) + Low income / no vehicle (80.0),Activate emergency bus route | Arrange evacuation transport,False
+Z18,86,Transit disruption (0.65) + Low income / no vehicle (86.0),Activate emergency bus route | Arrange evacuation transport | Localized transit dispatch: new event 'Bus route 5 suspended',False
+Z27,82,Transit disruption (0.55) + Low income / no vehicle (85.0),Activate emergency bus route | Arrange evacuation transport,False
+Z28,86,Transit disruption (0.69) + Low income / no vehicle (84.0),Activate emergency bus route | Arrange evacuation transport | Localized transit dispatch: new event 'Road closed: construction',False
+Z53,84,Power failure (25.97) + Far from clinic (3.5),Send mobile generators | Deploy medical team / mobile clinic,False
+Z54,89,Power failure (25.84) + Far from clinic (4.4),Send mobile generators | Deploy medical team / mobile clinic,False
+Z63,83,Power failure (26.8) + Far from clinic (3.5),Send mobile generators | Deploy medical team / mobile clinic,False
+Z64,80,Power failure (24.58) + Far from clinic (2.6),Send mobile generators | Deploy medical team / mobile clinic | Localized transit dispatch: new event 'Bus route 10 suspended',False
+Z65,87,Power failure (24.32) + Far from clinic (4.0),Send mobile generators | Deploy medical team / mobile clinic,True
+Z88,78,Emergency call drops (37.39) + Crowd outage reports (4.0),"Boost local warning (SMS, loudspeaker) | Field-verify power status",True
+Z89,78,Emergency call drops (41.78) + Crowd outage reports (8.0),"Boost local warning (SMS, loudspeaker) | Field-verify power status",True
+Z98,79,Emergency call drops (41.85) + Crowd outage reports (15.0),"Boost local warning (SMS, loudspeaker) | Field-verify power status",True
+Z99,78,Emergency call drops (40.0) + Crowd outage reports (8.0),"Boost local warning (SMS, loudspeaker) | Field-verify power status",True

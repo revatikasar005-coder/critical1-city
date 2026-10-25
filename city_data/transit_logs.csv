@@ -1,0 +1,401 @@
+zone,date,route,event
+Z10,2026-09-09,2,Normal service
+Z55,2026-09-17,3,Normal service
+Z77,2026-09-12,8,Normal service
+Z64,2026-10-03,2,Normal service
+Z11,2026-10-16,6,Normal service
+Z17,2026-10-07,8,Normal service
+Z18,2026-09-24,4,Bus route 4 suspended
+Z94,2026-09-08,3,Normal service
+Z99,2026-09-15,2,Normal service
+Z54,2026-10-10,11,Route 11 delayed
+Z100,2026-09-26,3,Route 3 delayed
+Z58,2026-10-01,9,Route 9 delayed
+Z41,2026-09-02,4,Normal service
+Z18,2026-10-05,4,Bus route 4 suspended
+Z81,2026-10-14,11,Normal service
+Z28,2026-09-07,4,Bus route 4 suspended
+Z27,2026-10-12,4,Bus route 4 suspended
+Z33,2026-09-23,2,Normal service
+Z16,2026-09-25,1,Bus route 1 suspended
+Z18,2026-09-10,4,Bus route 4 suspended
+Z36,2026-09-06,7,Bus route 7 suspended
+Z81,2026-09-13,7,Normal service
+Z80,2026-09-17,12,Normal service
+Z28,2026-09-29,11,Normal service
+Z03,2026-09-14,11,Normal service
+Z27,2026-09-26,4,Bus route 4 suspended
+Z27,2026-09-01,4,Bus route 4 suspended
+Z17,2026-10-06,8,Normal service
+Z17,2026-10-05,4,Bus route 4 suspended
+Z94,2026-10-05,11,Normal service
+Z29,2026-10-17,7,Bus route 7 suspended
+Z68,2026-09-13,5,Normal service
+Z27,2026-10-19,9,Route 9 delayed
+Z29,2026-09-11,9,Normal service
+Z06,2026-09-11,7,Bus route 7 suspended
+Z05,2026-09-29,9,Normal service
+Z62,2026-10-18,12,Normal service
+Z92,2026-09-19,12,Normal service
+Z24,2026-10-08,7,Normal service
+Z48,2026-09-14,8,Normal service
+Z16,2026-09-25,4,Normal service
+Z27,2026-09-10,4,Bus route 4 suspended
+Z27,2026-09-06,4,Bus route 4 suspended
+Z26,2026-10-01,2,Normal service
+Z35,2026-10-01,5,Normal service
+Z73,2026-10-02,7,Route 7 delayed
+Z11,2026-09-02,9,Route 9 delayed
+Z18,2026-09-03,4,Bus route 4 suspended
+Z52,2026-10-02,5,Normal service
+Z58,2026-10-20,10,Route 10 delayed
+Z18,2026-09-16,4,Bus route 4 suspended
+Z27,2026-10-03,4,Bus route 4 suspended
+Z84,2026-10-06,10,Normal service
+Z55,2026-09-14,9,Normal service
+Z48,2026-10-13,10,Normal service
+Z32,2026-10-17,1,Normal service
+Z27,2026-10-08,6,Normal service
+Z71,2026-10-02,7,Route 7 delayed
+Z54,2026-09-09,9,Route 9 delayed
+Z47,2026-09-09,12,Normal service
+Z52,2026-09-07,4,Normal service
+Z03,2026-10-15,3,Normal service
+Z22,2026-09-27,4,Normal service
+Z88,2026-09-27,8,Route 8 delayed
+Z05,2026-09-12,6,Normal service
+Z09,2026-09-09,6,Normal service
+Z60,2026-09-28,12,Normal service
+Z29,2026-09-17,7,Route 7 delayed
+Z05,2026-10-11,9,Normal service
+Z47,2026-09-14,1,Normal service
+Z10,2026-10-09,1,Normal service
+Z76,2026-10-01,4,Normal service
+Z07,2026-10-17,11,Normal service
+Z28,2026-09-17,4,Bus route 4 suspended
+Z67,2026-09-07,10,Route 10 delayed
+Z17,2026-10-11,4,Bus route 4 suspended
+Z86,2026-10-01,2,Bus route 2 suspended
+Z100,2026-09-04,5,Route 5 delayed
+Z12,2026-10-15,8,Normal service
+Z48,2026-10-08,7,Normal service
+Z81,2026-09-27,1,Normal service
+Z93,2026-10-15,9,Route 9 delayed
+Z74,2026-09-09,3,Normal service
+Z35,2026-09-21,2,Normal service
+Z88,2026-09-07,4,Normal service
+Z57,2026-09-21,8,Route 8 delayed
+Z07,2026-10-16,8,Normal service
+Z23,2026-09-02,1,Route 1 delayed
+Z28,2026-10-12,12,Road closed: construction
+Z62,2026-10-19,10,Normal service
+Z40,2026-09-21,9,Bus route 9 suspended
+Z17,2026-10-07,9,Normal service
+Z23,2026-09-19,2,Route 2 delayed
+Z62,2026-09-20,3,Normal service
+Z85,2026-09-24,5,Route 5 delayed
+Z73,2026-09-12,8,Normal service
+Z17,2026-10-05,4,Bus route 4 suspended
+Z34,2026-10-16,1,Normal service
+Z27,2026-10-06,4,Bus route 4 suspended
+Z27,2026-09-28,4,Bus route 4 suspended
+Z18,2026-10-18,5,Bus route 5 suspended
+Z17,2026-09-19,4,Bus route 4 suspended
+Z31,2026-09-28,11,Normal service
+Z11,2026-10-15,10,Route 10 delayed
+Z26,2026-09-22,9,Normal service
+Z28,2026-10-09,4,Bus route 4 suspended
+Z17,2026-10-14,4,Bus route 4 suspended
+Z17,2026-09-28,4,Bus route 4 suspended
+Z15,2026-09-25,9,Normal service
+Z84,2026-10-12,4,Normal service
+Z17,2026-09-20,4,Bus route 4 suspended
+Z18,2026-09-20,4,Bus route 4 suspended
+Z17,2026-10-14,4,Bus route 4 suspended
+Z56,2026-09-02,2,Normal service
+Z77,2026-10-12,7,Bus route 7 suspended
+Z22,2026-10-06,9,Normal service
+Z28,2026-09-21,6,Route 6 delayed
+Z91,2026-10-10,7,Normal service
+Z13,2026-09-14,1,Bus route 1 suspended
+Z84,2026-10-07,1,Route 1 delayed
+Z18,2026-09-15,5,Normal service
+Z28,2026-09-26,4,Bus route 4 suspended
+Z64,2026-10-17,8,Normal service
+Z80,2026-09-19,5,Normal service
+Z61,2026-10-10,6,Normal service
+Z28,2026-09-04,4,Bus route 4 suspended
+Z15,2026-10-15,2,Route 2 delayed
+Z93,2026-09-25,11,Normal service
+Z12,2026-10-15,9,Route 9 delayed
+Z27,2026-10-15,4,Normal service
+Z44,2026-09-11,10,Normal service
+Z18,2026-09-07,3,Bus route 3 suspended
+Z17,2026-09-25,5,Route 5 delayed
+Z32,2026-09-11,12,Normal service
+Z26,2026-09-13,9,Normal service
+Z27,2026-09-12,2,Normal service
+Z28,2026-10-17,4,Bus route 4 suspended
+Z36,2026-09-26,9,Route 9 delayed
+Z07,2026-10-13,4,Normal service
+Z27,2026-09-29,4,Bus route 4 suspended
+Z91,2026-09-02,4,Normal service
+Z53,2026-09-23,8,Normal service
+Z27,2026-10-03,1,Normal service
+Z10,2026-10-20,10,Normal service
+Z28,2026-10-10,4,Bus route 4 suspended
+Z88,2026-09-29,2,Route 2 delayed
+Z77,2026-09-27,8,Normal service
+Z10,2026-10-01,11,Normal service
+Z64,2026-10-03,12,Normal service
+Z27,2026-09-10,11,Normal service
+Z57,2026-10-17,9,Normal service
+Z31,2026-09-24,1,Route 1 delayed
+Z27,2026-09-01,11,Normal service
+Z28,2026-09-26,4,Bus route 4 suspended
+Z27,2026-09-13,4,Bus route 4 suspended
+Z18,2026-09-03,3,Normal service
+Z92,2026-10-14,4,Normal service
+Z28,2026-09-08,4,Bus route 4 suspended
+Z79,2026-09-14,10,Normal service
+Z17,2026-09-21,9,Route 9 delayed
+Z39,2026-10-10,9,Normal service
+Z57,2026-10-03,12,Normal service
+Z99,2026-09-28,3,Normal service
+Z17,2026-10-17,8,Route 8 delayed
+Z35,2026-09-10,2,Normal service
+Z58,2026-09-05,6,Normal service
+Z24,2026-09-03,3,Bus route 3 suspended
+Z27,2026-09-10,6,Normal service
+Z42,2026-10-10,12,Normal service
+Z28,2026-09-07,8,Normal service
+Z55,2026-09-19,10,Normal service
+Z56,2026-09-21,12,Normal service
+Z85,2026-10-08,9,Route 9 delayed
+Z04,2026-09-19,6,Route 6 delayed
+Z27,2026-10-15,4,Bus route 4 suspended
+Z50,2026-10-12,9,Bus route 9 suspended
+Z49,2026-10-19,10,Normal service
+Z09,2026-10-06,3,Normal service
+Z18,2026-10-03,4,Bus route 4 suspended
+Z13,2026-09-28,12,Route 12 delayed
+Z27,2026-10-04,4,Bus route 4 suspended
+Z88,2026-09-20,5,Normal service
+Z28,2026-10-17,8,Normal service
+Z18,2026-09-18,7,Normal service
+Z04,2026-10-10,8,Normal service
+Z72,2026-10-08,8,Normal service
+Z71,2026-09-02,5,Route 5 delayed
+Z74,2026-09-12,3,Route 3 delayed
+Z63,2026-09-27,4,Normal service
+Z75,2026-09-27,1,Normal service
+Z100,2026-09-16,6,Normal service
+Z56,2026-09-25,11,Normal service
+Z22,2026-10-09,8,Normal service
+Z61,2026-09-16,12,Normal service
+Z25,2026-10-17,4,Normal service
+Z28,2026-09-22,4,Bus route 4 suspended
+Z18,2026-10-04,4,Bus route 4 suspended
+Z52,2026-09-30,2,Normal service
+Z49,2026-10-04,6,Normal service
+Z27,2026-09-06,4,Bus route 4 suspended
+Z43,2026-09-02,5,Normal service
+Z18,2026-09-25,12,Normal service
+Z44,2026-09-01,2,Normal service
+Z51,2026-10-06,9,Normal service
+Z94,2026-09-10,2,Normal service
+Z20,2026-09-09,2,Normal service
+Z36,2026-09-09,7,Route 7 delayed
+Z63,2026-10-12,2,Normal service
+Z02,2026-10-16,6,Route 6 delayed
+Z28,2026-10-17,4,Bus route 4 suspended
+Z40,2026-09-16,10,Route 10 delayed
+Z17,2026-09-12,4,Bus route 4 suspended
+Z41,2026-10-10,12,Route 12 delayed
+Z38,2026-09-01,4,Normal service
+Z63,2026-10-20,11,Normal service
+Z03,2026-09-28,11,Route 11 delayed
+Z27,2026-09-11,4,Normal service
+Z18,2026-10-17,4,Bus route 4 suspended
+Z28,2026-09-10,4,Bus route 4 suspended
+Z47,2026-10-12,9,Normal service
+Z18,2026-09-12,4,Bus route 4 suspended
+Z49,2026-09-05,10,Normal service
+Z83,2026-09-22,8,Normal service
+Z28,2026-09-10,4,Bus route 4 suspended
+Z61,2026-09-03,7,Bus route 7 suspended
+Z10,2026-09-24,2,Normal service
+Z28,2026-09-13,4,Bus route 4 suspended
+Z17,2026-10-02,12,Normal service
+Z17,2026-10-20,4,Normal service
+Z90,2026-09-24,6,Normal service
+Z18,2026-10-14,4,Bus route 4 suspended
+Z70,2026-09-16,10,Route 10 delayed
+Z05,2026-09-01,4,Normal service
+Z29,2026-10-16,8,Normal service
+Z45,2026-09-22,6,Route 6 delayed
+Z48,2026-09-12,12,Normal service
+Z34,2026-09-22,8,Route 8 delayed
+Z17,2026-10-04,8,Normal service
+Z41,2026-09-13,10,Normal service
+Z27,2026-09-24,4,Bus route 4 suspended
+Z07,2026-09-08,3,Route 3 delayed
+Z02,2026-10-01,7,Route 7 delayed
+Z10,2026-10-11,2,Normal service
+Z28,2026-09-09,4,Bus route 4 suspended
+Z28,2026-10-08,4,Bus route 4 suspended
+Z13,2026-10-11,1,Route 1 delayed
+Z40,2026-09-16,4,Route 4 delayed
+Z17,2026-10-11,4,Bus route 4 suspended
+Z59,2026-10-08,10,Normal service
+Z21,2026-10-06,12,Normal service
+Z28,2026-09-10,4,Bus route 4 suspended
+Z65,2026-09-13,5,Normal service
+Z27,2026-10-12,4,Bus route 4 suspended
+Z97,2026-10-02,10,Normal service
+Z18,2026-09-15,4,Bus route 4 suspended
+Z28,2026-09-21,4,Bus route 4 suspended
+Z49,2026-10-05,2,Route 2 delayed
+Z40,2026-10-11,8,Normal service
+Z32,2026-10-04,11,Bus route 11 suspended
+Z17,2026-09-12,4,Bus route 4 suspended
+Z100,2026-09-01,6,Normal service
+Z58,2026-09-01,8,Normal service
+Z27,2026-10-04,6,Normal service
+Z76,2026-09-15,12,Normal service
+Z01,2026-10-12,4,Normal service
+Z83,2026-10-13,2,Normal service
+Z57,2026-10-04,10,Route 10 delayed
+Z64,2026-09-05,12,Normal service
+Z28,2026-09-04,4,Bus route 4 suspended
+Z27,2026-10-04,2,Normal service
+Z18,2026-10-14,9,Route 9 delayed
+Z14,2026-09-17,9,Bus route 9 suspended
+Z94,2026-09-21,7,Normal service
+Z18,2026-10-06,4,Bus route 4 suspended
+Z27,2026-09-18,4,Bus route 4 suspended
+Z85,2026-10-13,3,Normal service
+Z84,2026-10-17,5,Normal service
+Z17,2026-09-05,4,Bus route 4 suspended
+Z65,2026-09-05,11,Route 11 delayed
+Z89,2026-09-18,3,Normal service
+Z85,2026-09-05,7,Bus route 7 suspended
+Z18,2026-09-22,4,Bus route 4 suspended
+Z97,2026-09-21,10,Normal service
+Z95,2026-09-22,12,Route 12 delayed
+Z17,2026-09-18,4,Bus route 4 suspended
+Z76,2026-09-26,3,Normal service
+Z17,2026-09-28,4,Bus route 4 suspended
+Z16,2026-09-02,7,Normal service
+Z64,2026-10-20,3,Bus route 3 suspended
+Z17,2026-10-10,7,Normal service
+Z25,2026-10-05,5,Normal service
+Z39,2026-09-18,3,Normal service
+Z98,2026-09-25,3,Bus route 3 suspended
+Z28,2026-09-10,5,Normal service
+Z17,2026-09-03,4,Bus route 4 suspended
+Z100,2026-09-11,8,Normal service
+Z73,2026-09-22,11,Route 11 delayed
+Z34,2026-09-22,4,Normal service
+Z18,2026-09-06,6,Normal service
+Z39,2026-10-02,7,Normal service
+Z99,2026-10-04,6,Normal service
+Z72,2026-09-22,7,Normal service
+Z19,2026-09-08,4,Normal service
+Z95,2026-10-16,12,Normal service
+Z28,2026-09-03,4,Bus route 4 suspended
+Z04,2026-10-10,1,Route 1 delayed
+Z23,2026-09-03,3,Normal service
+Z27,2026-09-29,6,Normal service
+Z97,2026-10-06,5,Normal service
+Z09,2026-10-16,2,Route 2 delayed
+Z43,2026-10-04,11,Route 11 delayed
+Z84,2026-10-04,3,Normal service
+Z18,2026-10-10,4,Bus route 4 suspended
+Z93,2026-09-10,12,Normal service
+Z29,2026-09-18,8,Normal service
+Z28,2026-09-02,4,Bus route 4 suspended
+Z54,2026-09-11,3,Normal service
+Z50,2026-10-18,1,Route 1 delayed
+Z03,2026-09-30,11,Normal service
+Z49,2026-09-09,7,Normal service
+Z12,2026-10-17,7,Bus route 7 suspended
+Z02,2026-09-19,10,Normal service
+Z98,2026-09-09,4,Route 4 delayed
+Z62,2026-10-09,4,Normal service
+Z17,2026-10-20,4,Bus route 4 suspended
+Z97,2026-10-15,3,Normal service
+Z28,2026-10-11,9,Normal service
+Z77,2026-10-15,6,Normal service
+Z98,2026-09-12,4,Normal service
+Z28,2026-10-15,4,Bus route 4 suspended
+Z40,2026-09-23,9,Normal service
+Z86,2026-10-12,9,Normal service
+Z73,2026-09-19,5,Normal service
+Z17,2026-09-23,7,Bus route 7 suspended
+Z27,2026-09-02,4,Bus route 4 suspended
+Z23,2026-09-10,1,Normal service
+Z19,2026-10-04,10,Route 10 delayed
+Z90,2026-09-03,4,Route 4 delayed
+Z18,2026-09-09,4,Bus route 4 suspended
+Z32,2026-09-24,2,Normal service
+Z16,2026-09-26,6,Route 6 delayed
+Z67,2026-09-12,12,Bus route 12 suspended
+Z18,2026-10-19,4,Bus route 4 suspended
+Z20,2026-09-15,10,Normal service
+Z89,2026-09-30,10,Normal service
+Z57,2026-10-17,10,Route 10 delayed
+Z42,2026-09-22,10,Normal service
+Z17,2026-10-04,4,Bus route 4 suspended
+Z46,2026-10-20,11,Normal service
+Z35,2026-09-25,3,Normal service
+Z98,2026-10-16,2,Normal service
+Z28,2026-09-20,4,Bus route 4 suspended
+Z39,2026-09-14,11,Normal service
+Z28,2026-10-05,4,Bus route 4 suspended
+Z89,2026-09-27,7,Normal service
+Z27,2026-10-11,4,Route 4 delayed
+Z17,2026-09-16,4,Bus route 4 suspended
+Z44,2026-09-08,5,Normal service
+Z49,2026-09-14,11,Normal service
+Z28,2026-10-08,4,Bus route 4 suspended
+Z18,2026-10-19,8,Normal service
+Z33,2026-10-19,4,Normal service
+Z92,2026-09-28,4,Route 4 delayed
+Z28,2026-10-04,3,Normal service
+Z64,2026-09-06,10,Bus route 10 suspended
+Z49,2026-09-03,10,Normal service
+Z07,2026-10-15,5,Normal service
+Z27,2026-09-27,4,Normal service
+Z26,2026-09-23,6,Route 6 delayed
+Z18,2026-09-02,4,Bus route 4 suspended
+Z27,2026-10-03,4,Bus route 4 suspended
+Z27,2026-09-21,4,Bus route 4 suspended
+Z72,2026-09-17,2,Normal service
+Z27,2026-10-15,4,Bus route 4 suspended
+Z36,2026-10-01,3,Normal service
+Z46,2026-09-03,12,Normal service
+Z18,2026-09-07,4,Bus route 4 suspended
+Z09,2026-09-30,5,Normal service
+Z18,2026-09-16,4,Bus route 4 suspended
+Z51,2026-10-08,3,Normal service
+Z47,2026-10-11,2,Route 2 delayed
+Z14,2026-09-17,10,Route 10 delayed
+Z27,2026-09-06,4,Bus route 4 suspended
+Z28,2026-10-17,9,Route 9 delayed
+Z28,2026-09-23,4,Bus route 4 suspended
+Z16,2026-09-22,10,Normal service
+Z68,2026-09-04,5,Normal service
+Z17,2026-09-19,4,Bus route 4 suspended
+Z17,2026-09-21,4,Bus route 4 suspended
+Z68,2026-09-08,6,Route 6 delayed
+Z17,2026-09-06,1,Normal service
+Z03,2026-10-09,4,Normal service
+Z18,2026-09-23,4,Normal service
+Z32,2026-09-19,1,Normal service
+Z75,2026-09-05,12,Bus route 12 suspended
+Z28,2026-09-26,4,Bus route 4 suspended
+Z65,2026-09-18,11,Normal service
+Z18,2026-09-03,4,Bus route 4 suspended
+Z27,2026-10-12,4,Bus route 4 suspended
+Z17,2026-09-03,4,Bus route 4 suspended
